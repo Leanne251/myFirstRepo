@@ -1,0 +1,148 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1541450805268-4822a3a774ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);
+    z-index: 1;
+    
+   
+  }
+  
+  .header_container{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://wallpaperaccess.com/full/634457.jpg);
+    padding-top: 35px;
+    
+    
+  }
+  
+  .header_box{
+    background-color: #3fa643;
+    border: 5px;
+    border-style: solid;
+    border-color: #1b521d;
+    border-radius: 30%;
+    width: 40%; 
+    position: relative;
+    margin: auto;
+   margin-top:50px;
+    
+  
+  }
+  
+  
+  #title{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    background-color: #1b521d;
+    position: relative;
+    margin: auto;
+    color: #3fa643;
+    border: 2px solid black;
+    width: 500px;
+    
+  }
+  
+  #main{
+    width: 85%;
+    background-color: 
+  rgba(255, 255, 255, 0.25);
+    /* display: flex;
+    flex-direction: column; */
+    position: relative;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px 50px;
+   
+  }
+  
+  .full_width_section{
+    border: 1.5px solid #3fa643;
+    background-color: rgba(250, 244, 248, 0.64);
+    position: relative;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+     
+  }
+  
+  
+  .flex_box_container{
+  
+    background-color: rgba(250, 244, 248, 0.64);
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    
+    
+  }
+    
+  .column_section_1, .column_section_2,.column_section_3 {
+    
+    background-color: white;
+    width: 40%;
+    max-height: 100%;
+    border: 1px solid black;
+    position: relative;
+    margin: auto;
+    
+    
+  }
+  
+  #img-div{
+    background-color: white;
+    width: 40%;
+    max-height: 100%;
+    border: 1px solid black;
+    
+    
+   
+  }  
+  
+  #image {
+    height: 300px;
+    width: 350px;
+    
+    
+   
+  }
+  
+  #img-caption{
+    font-style: italic;
+    font-size: 15px;
+    font-family: 'Mohave', Tahoma;
+    text-align: center;
+    
+  }
+  
+  h1{
+    font-family: 'Lobster', cursive; 
+    font-size: 50px;
+    text-align: center;
+    
+  }
+  
+  h2{
+    font-family: 'Mohave', Tahoma; 
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    
+  }
+  
+  h3{
+    font-family: 'Mohave', Tahoma; 
+    font-size: 20px;
+    text-align: center;
+    font-style: italic bold;
+    
+  }
+  
+  p, ul{
+    font-family: 'Mohave', Tahoma; 
+    font-size: 15px;
+    
+  }
+  
+  footer{
+   
+  }
